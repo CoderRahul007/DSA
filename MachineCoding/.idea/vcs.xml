@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Design-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MachineCoding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/low-level-design-primer-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/machine-coding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/splitwise-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tic-tac-toe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticket-booking-low-level-system-design" vcs="Git" />
+  </component>
+</project>
